@@ -1,5 +1,5 @@
 foo:
   bar:
-    name: loong
+    name: loong-prod
 server:
   port: 10000
