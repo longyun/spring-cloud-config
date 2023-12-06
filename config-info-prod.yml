@@ -1,5 +1,5 @@
 foo:
   bar:
-    name: loong-prod-test-bus-1
+    name: loong-prod-test-bus-2
 server:
   port: 10000
